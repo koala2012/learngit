@@ -1,0 +1,48 @@
+Last login: Sun Mar 27 23:31:10 on ttys000
+Larry-Mac:~ Larry$ vi test.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+this is a test
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
